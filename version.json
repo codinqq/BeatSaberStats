@@ -1,3 +1,10 @@
 {
-  "latest": "1.26.1"
+  "steam": {
+    "latest": "1.26.0",
+    "moddable": true
+  },
+  "quest": {
+    "latest": "1.26.2",
+    "moddable": false
+  }
 }
