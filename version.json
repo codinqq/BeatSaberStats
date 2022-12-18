@@ -1,10 +1,10 @@
 {
   "steam": {
-    "latest": "1.27.0",
+    "latest": "1.27.0_3631158313",
     "moddable": true
   },
   "quest": {
-    "latest": "1.27.0",
+    "latest": "1.27.0_3631150051",
     "moddable": false
   }
 }
