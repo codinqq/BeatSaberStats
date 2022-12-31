@@ -5,6 +5,6 @@
   },
   "quest": {
     "latest": "1.27.0_3631150051",
-    "moddable": false
+    "moddable": true
   }
 }
